@@ -1,0 +1,19 @@
+[ 
+  {
+    "descricao":"World Cup 2022",
+      "local":{
+        "nome":"Alianz Park",
+         "imagem":"TODO"
+     },
+      "mandante":{
+        "nome":"Brasil",
+        "forca":5,
+        "imagem":"TODO"
+    },
+    "visitante":{
+        "nome":"Argentina",
+        "forca":5,
+        "imagem":"TODO"
+    }
+  }
+]
